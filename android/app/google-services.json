@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481907390098",
+    "firebase_url": "https://three-things-today.firebaseio.com",
+    "project_id": "three-things-today",
+    "storage_bucket": "three-things-today.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481907390098:android:c4452e376163c641",
+        "android_client_info": {
+          "package_name": "com.sayannath.three_things_today"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481907390098-e3l7lp7okgglgvvouoks8a7679k2rpcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApdCJGfVgO7Hvz3qNVkoKOotOVB05Zb5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481907390098-e3l7lp7okgglgvvouoks8a7679k2rpcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
